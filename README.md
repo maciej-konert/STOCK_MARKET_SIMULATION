@@ -19,7 +19,7 @@ The source code is organized into several directories, each responsible for spec
 ### Investors Directory
 Contains implementations of different investor types, each with unique strategies for market participation:
 - Investors using Simple Moving Average (SMA) to make buy/sell decisions
-- Other investors with various trading strategies and risk profiles
+- Investors performing random operations.
 
 ### Orders Directory
 Implements various order types with different execution requirements:
